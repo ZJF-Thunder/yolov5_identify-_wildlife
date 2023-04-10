@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Russula</folder>
+	<filename>010_Pvz422UdjTg.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Russula\010_Pvz422UdjTg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Russula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>107</ymin>
+			<xmax>754</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

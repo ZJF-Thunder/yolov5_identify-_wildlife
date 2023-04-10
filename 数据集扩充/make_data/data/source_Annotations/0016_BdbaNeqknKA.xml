@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Boletus</folder>
+	<filename>0016_BdbaNeqknKA.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Boletus\0016_BdbaNeqknKA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Boletus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>35</ymin>
+			<xmax>644</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

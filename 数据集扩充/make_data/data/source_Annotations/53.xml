@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sword pattern snake</folder>
+	<filename>53.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\蛇\sword pattern snake\53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>122</ymin>
+			<xmax>381</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

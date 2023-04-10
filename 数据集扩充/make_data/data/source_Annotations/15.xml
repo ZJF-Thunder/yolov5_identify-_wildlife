@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black rat snake</folder>
+	<filename>15.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\蛇\black rat snake\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>82</ymin>
+			<xmax>233</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

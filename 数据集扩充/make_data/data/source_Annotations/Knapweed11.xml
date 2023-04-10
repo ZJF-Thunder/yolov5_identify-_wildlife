@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Knapweed</folder>
+	<filename>Knapweed11.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\植物\Knapweed\Knapweed11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Knapweed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>14</ymin>
+			<xmax>233</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

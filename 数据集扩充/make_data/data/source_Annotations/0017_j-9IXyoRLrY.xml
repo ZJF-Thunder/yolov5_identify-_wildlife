@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Boletus</folder>
+	<filename>0017_j-9IXyoRLrY.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Boletus\0017_j-9IXyoRLrY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Boletus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>37</ymin>
+			<xmax>579</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

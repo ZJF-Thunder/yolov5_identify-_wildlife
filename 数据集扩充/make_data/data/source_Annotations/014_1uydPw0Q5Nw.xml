@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Amanita</folder>
+	<filename>014_1uydPw0Q5Nw.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Amanita\014_1uydPw0Q5Nw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>641</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amanita</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>82</ymin>
+			<xmax>668</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

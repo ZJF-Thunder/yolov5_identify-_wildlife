@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Entoloma</folder>
+	<filename>020_yk9oCxLPbLQ.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Entoloma\020_yk9oCxLPbLQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>928</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Entoloma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>129</ymin>
+			<xmax>1217</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>

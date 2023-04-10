@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Harebell</folder>
+	<filename>harebell4.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\植物\Harebell\harebell4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Harebell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>64</ymin>
+			<xmax>580</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

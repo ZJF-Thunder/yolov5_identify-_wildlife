@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Suillus</folder>
+	<filename>012_LoI9mTyYf7I.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Suillus\012_LoI9mTyYf7I.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Suillus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>20</ymin>
+			<xmax>696</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lactarius</folder>
+	<filename>0001_eCt6Eq3hCgg.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Lactarius\0001_eCt6Eq3hCgg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lactarius</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>70</ymin>
+			<xmax>583</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

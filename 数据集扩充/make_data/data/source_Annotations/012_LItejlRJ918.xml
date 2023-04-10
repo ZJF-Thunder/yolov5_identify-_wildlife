@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hygrocybe</folder>
+	<filename>012_LItejlRJ918.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Hygrocybe\012_LItejlRJ918.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>916</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hygrocybe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>42</ymin>
+			<xmax>1128</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

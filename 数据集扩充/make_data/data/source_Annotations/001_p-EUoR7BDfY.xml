@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hygrocybe</folder>
+	<filename>001_p-EUoR7BDfY.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Hygrocybe\001_p-EUoR7BDfY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hygrocybe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>23</ymin>
+			<xmax>703</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

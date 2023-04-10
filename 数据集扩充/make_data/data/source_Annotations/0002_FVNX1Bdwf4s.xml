@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Boletus</folder>
+	<filename>0002_FVNX1Bdwf4s.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Boletus\0002_FVNX1Bdwf4s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>713</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Boletus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>150</ymin>
+			<xmax>806</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

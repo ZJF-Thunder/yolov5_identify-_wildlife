@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Russula</folder>
+	<filename>007_agyB6OZcMlk.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Russula\007_agyB6OZcMlk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>596</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Russula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>56</ymin>
+			<xmax>723</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

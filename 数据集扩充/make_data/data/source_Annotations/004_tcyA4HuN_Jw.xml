@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lactarius</folder>
+	<filename>004_tcyA4HuN_Jw.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Lactarius\004_tcyA4HuN_Jw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>795</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lactarius</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>35</ymin>
+			<xmax>760</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

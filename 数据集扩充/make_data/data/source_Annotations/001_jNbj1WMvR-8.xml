@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Russula</folder>
+	<filename>001_jNbj1WMvR-8.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Russula\001_jNbj1WMvR-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Russula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>61</ymin>
+			<xmax>646</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

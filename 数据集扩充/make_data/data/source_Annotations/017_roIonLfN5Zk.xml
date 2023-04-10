@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Entoloma</folder>
+	<filename>017_roIonLfN5Zk.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Entoloma\017_roIonLfN5Zk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Entoloma</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>43</ymin>
+			<xmax>754</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>

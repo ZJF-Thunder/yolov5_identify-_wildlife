@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cortinarius</folder>
+	<filename>008_d9knn6VSD-U.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Cortinarius\008_d9knn6VSD-U.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>528</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cortinarius</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>10</ymin>
+			<xmax>796</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

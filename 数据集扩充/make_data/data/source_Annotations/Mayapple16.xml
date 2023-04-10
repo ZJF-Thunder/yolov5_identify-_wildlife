@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mayapple</folder>
+	<filename>Mayapple16.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\植物\Mayapple\Mayapple16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mayapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>41</ymin>
+			<xmax>260</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

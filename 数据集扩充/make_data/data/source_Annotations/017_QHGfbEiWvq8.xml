@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Agaricus</folder>
+	<filename>017_QHGfbEiWvq8.jpg</filename>
+	<path>C:\Users\MLZ\Desktop\李浩民\蘑菇\Agaricus\017_QHGfbEiWvq8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Agaricus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>71</ymin>
+			<xmax>652</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

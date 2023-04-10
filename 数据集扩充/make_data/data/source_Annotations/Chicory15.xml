@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chicory</folder>
+	<filename>Chicory15.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\植物\Chicory\Chicory15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>567</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chicory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>35</ymin>
+			<xmax>357</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

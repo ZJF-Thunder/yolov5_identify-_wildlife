@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Western Scaled Rattlesnake</folder>
+	<filename>91.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\蛇\Western Scaled Rattlesnake\91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wsrs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>79</ymin>
+			<xmax>377</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

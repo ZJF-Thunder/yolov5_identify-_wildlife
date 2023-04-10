@@ -1,0 +1,26 @@
+<annotation>
+	<folder>water_snake</folder>
+	<filename>66.jpg</filename>
+	<path>C:\Users\zjf\Desktop\挑战杯\数据集\曾浚峰\蛇\water_snake\66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ws</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>4</ymin>
+			<xmax>320</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
