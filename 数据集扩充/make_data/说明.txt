@@ -1,0 +1,12 @@
+此程序可以将xml转换成txt格式
+还可以扩充数据集
+1.将数据通过各种变化达到数据增强，数据集增大
+运行change......py
+2.将图片数据分成训练集和测试集，将名称写在txt文件上
+运行make_txt.py
+3.生成训练集和测试集及其名称
+运行train_val.py
+
+txt_to_xml.py作用为将txt转换成xml格式
+xml2json.py作用为将xml格式转换成json格式
+即将voc格式转换成coco格式
